@@ -1,0 +1,6 @@
+.vs/
+obj/
+ProductCatalogAPI.Application/bin/
+ProductCatalogAPI.Core/bin/
+ProductCatalogAPI.Infrastructure/bin/
+ProductCatalogAPI.WebAPI/bin/
