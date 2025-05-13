@@ -3,4 +3,5 @@ obj/
 ProductCatalogAPI.Application/bin/
 ProductCatalogAPI.Core/bin/
 ProductCatalogAPI.Infrastructure/bin/
+ProductCatalogAPI.Tests/bin/
 ProductCatalogAPI.WebAPI/bin/

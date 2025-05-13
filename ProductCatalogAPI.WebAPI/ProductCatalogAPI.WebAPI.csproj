@@ -24,4 +24,9 @@
     <ProjectReference Include="..\ProductCatalogAPI.Core\ProductCatalogAPI.Core.csproj" />
     <ProjectReference Include="..\ProductCatalogAPI.Infrastructure\ProductCatalogAPI.Infrastructure.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="ProductCatalogAPI.Tests"/>
+  </ItemGroup>
+
 </Project>
